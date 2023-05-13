@@ -1,0 +1,18 @@
+{
+  "name": "git-test-01",
+  "version": "1.0.0",
+  "description": "myfirstweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/trinhgiakhiem1505/firstweb.git)"
+  },
+  "author": "Trinh Gia Khiem",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
